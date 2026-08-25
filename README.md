@@ -69,7 +69,7 @@ Sube tributo-bertha.html (puedes renombrarlo a index.html para que cargue direct
 Ve a Settings → Pages.
 En Source, selecciona la rama main y la carpeta / (root).
 Guarda los cambios. GitHub generará una URL como:
-  [ https://tu-usuario.github.io/nombre-del-repositorio/](https://github.com/Juli4ndvlp/Bertha-homenaje)
+  (https://github.com/Juli4ndvlp/Bertha-homenaje)
 Espera uno o dos minutos y el sitio estará disponible.
 
 Si prefieres mantenerlo privado solo para la familia, puedes dejar el repositorio en privado y compartir el archivo HTML directamente en lugar de publicarlo con Pages (GitHub Pages en repos privados requiere un plan de pago).
